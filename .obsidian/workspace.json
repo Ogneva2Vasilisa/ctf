@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "ec557a9ca7cb132d",
+    "type": "split",
+    "children": [
+      {
+        "id": "733b1d7b1ce19d57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fa3a8e6058a2305",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "t-ctf24/scheme_a403e00.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "scheme_a403e00"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00967e7483ed603a",
+    "type": "split",
+    "children": [
+      {
+        "id": "89f302f21f3ed2aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25b38ca2756da3b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "58ef0c256e104f9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "4a9adf27974ef238",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "86075acee02ef659",
+    "type": "split",
+    "children": [
+      {
+        "id": "123929f1fbfc0b4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f06350398c1e69da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "t-ctf24/scheme_a403e00.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для scheme_a403e00"
+            }
+          },
+          {
+            "id": "e7d46f2cc1644d8f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "t-ctf24/scheme_a403e00.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из scheme_a403e00"
+            }
+          },
+          {
+            "id": "aa4e1ee4b23b1146",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "22f7bad045625248",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "t-ctf24/scheme_a403e00.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура scheme_a403e00"
+            }
+          },
+          {
+            "id": "d5d4f2ff42f8d512",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "25b38ca2756da3b2",
+  "lastOpenFiles": [
+    "t-ctf24/REP3000_84136dd.pdf",
+    "t-ctf24/scheme_a403e00.pdf",
+    "img/Untitled.png",
+    "img/e895d00c-a72e-439b-912b-16b96c4b04fc.png",
+    "t-ctf24/TinkoffCTF 2024.md",
+    "img",
+    "README.md",
+    "t-ctf24/Photo_065.jpg",
+    "t-ctf24/Photo_014.jpg",
+    "img/fd8a8f4c-412c-4a3d-a5c9-d0d131f176a5.png",
+    "CryptoKids 7a2ac7048ff244209d57a00542c314fd.md",
+    "NeoQuest24/NeoQuest2024 e35ed3484ec2473caff0b0755713244b.md",
+    "NeoQuest24/Задание 1 3bf7a54596fd4460ae29107264b51b65.md",
+    "t-ctf24/IMG_1904.jpg",
+    "NeoQuest24",
+    "t-ctf24/Золотая лопа 71abade4b50c44bc8d15ff6741e4909b.md",
+    "t-ctf24/IMG_1904 1.jpg",
+    "t-ctf24/25-й кадр ae6f60191daa4088a97041bacd1e4488.md",
+    "t-ctf24"
+  ]
+}
