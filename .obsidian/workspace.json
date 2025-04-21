@@ -11,14 +11,12 @@
             "id": "ce7a3a5bea2186a8",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "image",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "t-ctf25/Pasted image 20250421214251.png"
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250421214251"
             }
           }
         ]
