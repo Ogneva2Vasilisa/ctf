@@ -11,10 +11,15 @@
             "id": "ce7a3a5bea2186a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "t-ctf24/Репкозиторий.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Репкозиторий"
             }
           }
         ]
@@ -177,6 +182,7 @@
   },
   "active": "ce7a3a5bea2186a8",
   "lastOpenFiles": [
+    "t-ctf24/Пятницамобиль.md",
     "t-ctf24/Проклятый старый сайт b543d50765e34b9d8a11d056d8cfe285 1.md",
     "t-ctf24/Проклятый старый сайт.md",
     "t-ctf24/Наши фотки 😽.md",
@@ -214,7 +220,6 @@
     "t-ctf24/Человек-жук.md",
     "CryptoKids 7a2ac7048ff244209d57a00542c314fd.md",
     "___-kids/CryptoKids 7a2ac7048ff244209d57a00542c314fd.md",
-    "2025-04-21.md",
     "___-kids",
     "Без названия.canvas",
     "t-cftf24",
