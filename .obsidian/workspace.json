@@ -11,10 +11,24 @@
             "id": "ce7a3a5bea2186a8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "t-ctf24/TinkoffCTF_24.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TinkoffCTF_24"
             }
           }
         ]
@@ -70,8 +84,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "t-ctf24/TinkoffCTF_24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для TinkoffCTF_24"
             }
           },
           {
@@ -109,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "t-ctf24/TinkoffCTF_24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из TinkoffCTF_24"
             }
           },
           {
@@ -137,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "t-ctf24/TinkoffCTF_24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура TinkoffCTF_24"
             }
           },
           {
@@ -173,9 +189,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa4e1ee4b23b1146",
+  "active": "ce7a3a5bea2186a8",
   "lastOpenFiles": [
     "README.md",
+    "CryptoKids 7a2ac7048ff244209d57a00542c314fd.md",
+    "___-kids/CryptoKids 7a2ac7048ff244209d57a00542c314fd.md",
+    "2025-04-21.md",
+    "___-kids",
+    "Без названия.canvas",
     "NeoQuest24/NeoQuest2024.md",
     "t-ctf24/TinkoffCTF_24.md",
     "t-ctf24/Золотая лопа 71abade4b50c44bc8d15ff6741e4909b.md",
@@ -190,7 +211,6 @@
     "NeoQuest24/Задание_3.md",
     "NeoQuest24/Задание_2.md",
     "NeoQuest24/Задание_1.md",
-    "CryptoKids 7a2ac7048ff244209d57a00542c314fd.md",
     "t-cftf24/TinkoffCTF_24.md",
     "t-cftf24",
     "conflict-files-obsidian-git.md",
@@ -209,7 +229,6 @@
     "t-ctf24/Photo_014.jpg",
     "img/fd8a8f4c-412c-4a3d-a5c9-d0d131f176a5.png",
     "t-ctf24/IMG_1904.jpg",
-    "NeoQuest24",
     "t-ctf24/IMG_1904 1.jpg",
     "t-ctf24/25-й кадр ae6f60191daa4088a97041bacd1e4488.md"
   ]

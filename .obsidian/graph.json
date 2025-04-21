@@ -8,10 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "path:t-ctf24  ",
       "color": {
         "a": 1,
         "rgb": 16774912
+      }
+    },
+    {
+      "query": "path:NeoQuest24  ",
+      "color": {
+        "a": 1,
+        "rgb": 12737750
+      }
+    },
+    {
+      "query": "path:",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
       }
     }
   ],
