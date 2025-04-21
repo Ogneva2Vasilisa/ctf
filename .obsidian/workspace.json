@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "t-ctf24/Наши фотки 😽 05a58c21c94b46a18edb7d75abd2b9b9.md",
+                "file": "t-ctf24/Наши фотки 😽.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Наши фотки 😽 05a58c21c94b46a18edb7d75abd2b9b9"
+              "title": "Наши фотки 😽"
             }
           }
         ]
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "t-ctf24/Наши фотки 😽 05a58c21c94b46a18edb7d75abd2b9b9.md",
+                "file": "t-ctf24/Наши фотки 😽.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Наши фотки 😽 05a58c21c94b46a18edb7d75abd2b9b9"
+              "title": "Обратные ссылки для Наши фотки 😽"
             }
           },
           {
@@ -139,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "t-ctf24/Наши фотки 😽 05a58c21c94b46a18edb7d75abd2b9b9.md",
+                "file": "t-ctf24/Наши фотки 😽.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Наши фотки 😽 05a58c21c94b46a18edb7d75abd2b9b9"
+              "title": "Исходящие ссылки из Наши фотки 😽"
             }
           },
           {
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "t-ctf24/Наши фотки 😽 05a58c21c94b46a18edb7d75abd2b9b9.md",
+                "file": "t-ctf24/Наши фотки 😽.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Наши фотки 😽 05a58c21c94b46a18edb7d75abd2b9b9"
+              "title": "Структура Наши фотки 😽"
             }
           }
         ],
