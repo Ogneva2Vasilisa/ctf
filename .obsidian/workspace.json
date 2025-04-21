@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "NeoQuest24/Задание_3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Задание_3"
             }
           }
         ]
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "NeoQuest24/Задание_3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для README"
+              "title": "Обратные ссылки для Задание_3"
             }
           },
           {
@@ -139,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "NeoQuest24/Задание_3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из README"
+              "title": "Исходящие ссылки из Задание_3"
             }
           },
           {
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "NeoQuest24/Задание_3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура README"
+              "title": "Структура Задание_3"
             }
           }
         ],
@@ -182,6 +182,10 @@
   },
   "active": "ce7a3a5bea2186a8",
   "lastOpenFiles": [
+    "NeoQuest24/Задание_2.md",
+    "NeoQuest24/Задание_1.md",
+    "img/Untitled.png",
+    "README.md",
     "img/Untitled 15.png",
     "img/Untitled 8.png",
     "img/Untitled 3.png",
@@ -191,7 +195,6 @@
     "t-ctf24/TinkoffCTF_24.md",
     "t-ctf24/Человек-жук.md",
     "t-ctf24/Проклятый старый сайт b543d50765e34b9d8a11d056d8cfe285 1.md",
-    "README.md",
     "CryptoKids 7a2ac7048ff244209d57a00542c314fd.md",
     "___-kids/CryptoKids 7a2ac7048ff244209d57a00542c314fd.md",
     "2025-04-21.md",
@@ -206,8 +209,6 @@
     "NeoQuest24/Задание_5.md",
     "NeoQuest24/Задание_4.md",
     "NeoQuest24/Задание_3.md",
-    "NeoQuest24/Задание_2.md",
-    "NeoQuest24/Задание_1.md",
     "t-cftf24/TinkoffCTF_24.md",
     "t-cftf24",
     "conflict-files-obsidian-git.md",
@@ -219,13 +220,11 @@
     "t-ctf24/TinkoffCTF.md",
     "t-ctf24/scheme_a403e00.pdf",
     "t-ctf24/REP3000_84136dd.pdf",
-    "img/Untitled.png",
     "img/e895d00c-a72e-439b-912b-16b96c4b04fc.png",
     "img",
     "t-ctf24/Photo_065.jpg",
     "t-ctf24/Photo_014.jpg",
     "img/fd8a8f4c-412c-4a3d-a5c9-d0d131f176a5.png",
-    "t-ctf24/IMG_1904.jpg",
     "t-ctf24/25-й кадр ae6f60191daa4088a97041bacd1e4488.md"
   ]
 }
