@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "NeoQuest2024",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,7 +172,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -190,7 +192,7 @@
   },
   "active": "ce7a3a5bea2186a8",
   "lastOpenFiles": [
-    "NeoQuest24/с.md",
+    "NeoQuest24/NeoQuest2024.md",
     "README.md",
     "t-ctf24/TinkoffCTF_24.md",
     "t-ctf24/Золотая лопа 71abade4b50c44bc8d15ff6741e4909b.md",
