@@ -5,4 +5,6 @@
 
 [TinkoffCTF 2024](t-ctf24/TinkoffCTF_24.md)
 
+[TinkoffCTF 2025](t-ctf24/TinkoffCTF_24.md)
+
 - [Сайт с алгоритмами на си и больше](https://algolist.ru/)
