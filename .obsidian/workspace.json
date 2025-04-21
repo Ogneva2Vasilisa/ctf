@@ -11,12 +11,15 @@
             "id": "ce7a3a5bea2186a8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/Untitled 9.png"
+                "file": "t-ctf24/Alt_капоне.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Untitled 9"
+              "icon": "lucide-file",
+              "title": "Alt_капоне"
             }
           }
         ]
@@ -117,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/Untitled 9.png",
+                "file": "t-ctf24/Alt_капоне.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Untitled 9"
+              "title": "Обратные ссылки для Alt_капоне"
             }
           },
           {
@@ -136,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/Untitled 9.png",
+                "file": "t-ctf24/Alt_капоне.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Untitled 9"
+              "title": "Исходящие ссылки из Alt_капоне"
             }
           },
           {
@@ -150,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/Untitled 9.png",
+                "file": "t-ctf24/Alt_капоне.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Untitled 9"
+              "title": "Структура Alt_капоне"
             }
           }
         ],
@@ -179,17 +182,22 @@
   },
   "active": "ce7a3a5bea2186a8",
   "lastOpenFiles": [
-    "img/Untitled 14.png",
-    "img/Untitled 17.png",
-    "img/Untitled 5.png",
-    "img/e895d00c-a72e-439b-912b-16b96c4b04fc.png",
-    "img/fd8a8f4c-412c-4a3d-a5c9-d0d131f176a5.png",
-    "t-ctf24/REP3000_84136dd.pdf",
+    "t-ctf24/TinkoffCTF_24.md",
     "t-ctf24/scheme_a403e00.pdf",
-    "img/Untitled 13.png",
-    "img/Untitled 2.png",
-    "img/Untitled.png",
-    "img/Untitled 29.png",
+    "t-ctf24/Гипнолуч d29110d46242490a8c7a42eda96da8e7.md",
+    "t-ctf24/Галера eb6c1f83c412491982c2d38b05a4117d.md",
+    "t-ctf24/25-й кадр ae6f60191daa4088a97041bacd1e4488.md",
+    "t-ctf24/img/Untitled 28.png",
+    "t-ctf24/img/Untitled 25.png",
+    "t-ctf24/img/Untitled 9.png",
+    "t-ctf24/img/Untitled 14.png",
+    "t-ctf24/img/Untitled 17.png",
+    "t-ctf24/img/Untitled 5.png",
+    "t-ctf24/img/e895d00c-a72e-439b-912b-16b96c4b04fc.png",
+    "t-ctf24/img/fd8a8f4c-412c-4a3d-a5c9-d0d131f176a5.png",
+    "t-ctf24/REP3000_84136dd.pdf",
+    "t-ctf24/img/Untitled 13.png",
+    "t-ctf24/img/Untitled 2.png",
     "NeoQuest24/Задание_7.md",
     "NeoQuest24/Задание_6.md",
     "NeoQuest24/Задание_5.md",
@@ -198,10 +206,7 @@
     "NeoQuest24/Задание_2.md",
     "NeoQuest24/Задание_1.md",
     "README.md",
-    "img/Untitled 15.png",
-    "img/Untitled 8.png",
     "t-ctf24/Золотая лопа 71abade4b50c44bc8d15ff6741e4909b.md",
-    "t-ctf24/TinkoffCTF_24.md",
     "t-ctf24/Человек-жук.md",
     "t-ctf24/Проклятый старый сайт b543d50765e34b9d8a11d056d8cfe285 1.md",
     "CryptoKids 7a2ac7048ff244209d57a00542c314fd.md",
@@ -222,7 +227,6 @@
     "t-ctf24/case_database.txt.enc.txt",
     "t-ctf24/bugman_44416be.tar.gz",
     "t-ctf24/TinkoffCTF.md",
-    "img",
-    "t-ctf24/25-й кадр ae6f60191daa4088a97041bacd1e4488.md"
+    "t-ctf24/img"
   ]
 }

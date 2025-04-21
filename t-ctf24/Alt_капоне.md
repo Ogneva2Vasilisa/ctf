@@ -10,11 +10,11 @@
 
 Выдает ссылку на картинку, смотрим только ее корень
 
-![Untitled](Untitled%2012.png)
+![Untitled](img/Untitled%2012.png)
 
 В берпе меняем метод get на post, видим рекомендацию запроса
 
-![Untitled](Untitled%2013.png)
+![Untitled](img/Untitled%2013.png)
 
 [@bash_dev](https://t.me/bash_dev)
 
@@ -35,12 +35,12 @@ Use: ?action=<show_nginx_logs|start_ping>
 
 Перешел по [https://t-altcapone-r1m0mt9a.spbctf.net/?action=show_nginx_logs](https://t-altcapone-r1m0mt9a.spbctf.net/?action=show_nginx_logs) , увидел в логах "POST /telegram/webhook", понял то что работает он на вебхуках
 
-![Untitled](Untitled%2014.png)
+![Untitled](img/Untitled%2014.png)
 
 Посмотрел id пользователя [@exmafiaguy](https://t.me/exmafiaguy) - 6818118044, Отправляю запросы на [https://t-altcapone-r1m0mt9a.spbctf.net/telegram/webhook](https://t-altcapone-r1m0mt9a.spbctf.net/telegram/webhook)
 Первый с  такими данными, чтобы увидеть что там есть в админке:
 
-![Untitled](e895d00c-a72e-439b-912b-16b96c4b04fc.png)
+![Untitled](img/e895d00c-a72e-439b-912b-16b96c4b04fc.png)
 
 ```json
 {
@@ -56,7 +56,7 @@ Use: ?action=<show_nginx_logs|start_ping>
 
 ```
 
-![Untitled](fd8a8f4c-412c-4a3d-a5c9-d0d131f176a5.png)
+![Untitled](img/fd8a8f4c-412c-4a3d-a5c9-d0d131f176a5.png)
 
 ```json
 {
@@ -172,4 +172,4 @@ Use: ?action=<show_nginx_logs|start_ping>
 
 И мне в телеграмм приходит сообщение от бота, такое же как ответ на /start, но с кнопкой "Нет")   После нажатия кнопки "Нет" получаю флаг))
 
-![Untitled](Untitled%2015.png)
+![Untitled](img/Untitled%2015.png)
