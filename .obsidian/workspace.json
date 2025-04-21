@@ -11,15 +11,10 @@
             "id": "ce7a3a5bea2186a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "t-ctf24/Проклятый старый сайт b543d50765e34b9d8a11d056d8cfe285 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Проклятый старый сайт b543d50765e34b9d8a11d056d8cfe285 1"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -182,6 +177,7 @@
   },
   "active": "ce7a3a5bea2186a8",
   "lastOpenFiles": [
+    "t-ctf24/Проклятый старый сайт b543d50765e34b9d8a11d056d8cfe285 1.md",
     "t-ctf24/Проклятый старый сайт.md",
     "t-ctf24/Наши фотки 😽.md",
     "t-ctf24/Мисс Фрод.md",
@@ -216,7 +212,6 @@
     "NeoQuest24/Задание_1.md",
     "README.md",
     "t-ctf24/Человек-жук.md",
-    "t-ctf24/Проклятый старый сайт b543d50765e34b9d8a11d056d8cfe285 1.md",
     "CryptoKids 7a2ac7048ff244209d57a00542c314fd.md",
     "___-kids/CryptoKids 7a2ac7048ff244209d57a00542c314fd.md",
     "2025-04-21.md",
