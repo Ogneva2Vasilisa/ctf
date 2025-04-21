@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "884e988b6f32fd31",
+        "id": "96c95f3bda9c19ad",
         "type": "tabs",
         "children": [
           {
-            "id": "84665772e34f804c",
+            "id": "4c6e7b4e438e7191",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "t-ctf24/TinkoffCTF.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TinkoffCTF"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -179,11 +175,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84665772e34f804c",
+  "active": "4c6e7b4e438e7191",
   "lastOpenFiles": [
     "t-ctf24/TinkoffCTF_24.md",
-    "t-ctf24/TinkoffCTF.md",
     "README.md",
+    "t-cftf24/TinkoffCTF_24.md",
+    "t-cftf24",
+    "conflict-files-obsidian-git.md",
+    "t-ctf24/Old_site.rar",
+    "t-ctf24/lopa_2dkwzhy.pcap",
+    "t-ctf24/herlock.py",
+    "t-ctf24/case_database.txt.enc.txt",
+    "t-ctf24/bugman_44416be.tar.gz",
+    "t-ctf24/TinkoffCTF.md",
     "t-ctf24/scheme_a403e00.pdf",
     "t-ctf24/REP3000_84136dd.pdf",
     "img/Untitled.png",
@@ -199,7 +203,6 @@
     "NeoQuest24",
     "t-ctf24/Золотая лопа 71abade4b50c44bc8d15ff6741e4909b.md",
     "t-ctf24/IMG_1904 1.jpg",
-    "t-ctf24/25-й кадр ae6f60191daa4088a97041bacd1e4488.md",
-    "t-ctf24"
+    "t-ctf24/25-й кадр ae6f60191daa4088a97041bacd1e4488.md"
   ]
 }
