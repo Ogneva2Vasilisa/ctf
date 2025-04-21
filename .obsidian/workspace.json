@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "733b1d7b1ce19d57",
+        "id": "884e988b6f32fd31",
         "type": "tabs",
         "children": [
           {
-            "id": "5fa3a8e6058a2305",
+            "id": "84665772e34f804c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "t-ctf24/scheme_a403e00.pdf"
+                "file": "t-ctf24/TinkoffCTF.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "scheme_a403e00"
+              "icon": "lucide-file",
+              "title": "TinkoffCTF"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "t-ctf24/scheme_a403e00.pdf",
+                "file": "t-ctf24/TinkoffCTF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для scheme_a403e00"
+              "title": "Обратные ссылки для TinkoffCTF"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "t-ctf24/scheme_a403e00.pdf",
+                "file": "t-ctf24/TinkoffCTF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из scheme_a403e00"
+              "title": "Исходящие ссылки из TinkoffCTF"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "t-ctf24/scheme_a403e00.pdf",
+                "file": "t-ctf24/TinkoffCTF.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура scheme_a403e00"
+              "title": "Структура TinkoffCTF"
             }
           },
           {
@@ -177,15 +179,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25b38ca2756da3b2",
+  "active": "84665772e34f804c",
   "lastOpenFiles": [
-    "t-ctf24/REP3000_84136dd.pdf",
+    "t-ctf24/TinkoffCTF_24.md",
+    "t-ctf24/TinkoffCTF.md",
+    "README.md",
     "t-ctf24/scheme_a403e00.pdf",
+    "t-ctf24/REP3000_84136dd.pdf",
     "img/Untitled.png",
     "img/e895d00c-a72e-439b-912b-16b96c4b04fc.png",
-    "t-ctf24/TinkoffCTF 2024.md",
     "img",
-    "README.md",
     "t-ctf24/Photo_065.jpg",
     "t-ctf24/Photo_014.jpg",
     "img/fd8a8f4c-412c-4a3d-a5c9-d0d131f176a5.png",
