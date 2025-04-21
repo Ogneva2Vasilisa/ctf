@@ -23,7 +23,7 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
@@ -99,39 +99,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f06350398c1e69da",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "t-ctf24/TinkoffCTF_24.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Обратные ссылки для TinkoffCTF_24"
-            }
-          },
-          {
-            "id": "e7d46f2cc1644d8f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "t-ctf24/TinkoffCTF_24.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Исходящие ссылки из TinkoffCTF_24"
-            }
-          },
-          {
             "id": "aa4e1ee4b23b1146",
             "type": "leaf",
             "state": {
@@ -147,21 +114,6 @@
             }
           },
           {
-            "id": "22f7bad045625248",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "t-ctf24/TinkoffCTF_24.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Структура TinkoffCTF_24"
-            }
-          },
-          {
             "id": "d5d4f2ff42f8d512",
             "type": "leaf",
             "state": {
@@ -172,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,6 +143,9 @@
   },
   "active": "ce7a3a5bea2186a8",
   "lastOpenFiles": [
+    "t-ctf24/Человек-жук.md",
+    "t-ctf24/TinkoffCTF_24.md",
+    "t-ctf24/Проклятый старый сайт b543d50765e34b9d8a11d056d8cfe285 1.md",
     "README.md",
     "CryptoKids 7a2ac7048ff244209d57a00542c314fd.md",
     "___-kids/CryptoKids 7a2ac7048ff244209d57a00542c314fd.md",
@@ -198,10 +153,8 @@
     "___-kids",
     "Без названия.canvas",
     "NeoQuest24/NeoQuest2024.md",
-    "t-ctf24/TinkoffCTF_24.md",
     "t-ctf24/Золотая лопа 71abade4b50c44bc8d15ff6741e4909b.md",
     "t-ctf24/Тред_Ариандны.md",
-    "t-ctf24/Человек-жук.md",
     "t-ctf24/Элементарно,_Ватсон!.md",
     "t-ctf24/Alt_капоне.md",
     "NeoQuest24/Задание_7.md",
