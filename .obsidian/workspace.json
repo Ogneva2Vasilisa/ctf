@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "t-ctf25/Pasted image 20250421214251.png"
+                "file": "t-ctf25/img/Pasted image 20250421214251.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20250421214251"
@@ -177,18 +177,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce7a3a5bea2186a8",
+  "active": "25b38ca2756da3b2",
   "lastOpenFiles": [
-    "t-ctf25/Pasted image 20250421214308.png",
     "t-ctf25/Капитальный_ремонт.md",
-    "t-ctf25/Pasted image 20250421214251.png",
+    "t-ctf25/img",
+    "t-ctf25/img/Pasted image 20250421220214.png",
+    "t-ctf25/img/Pasted image 20250421214251.png",
+    "t-ctf25/img/Pasted image 20250421214308.png",
     "t-ctf25/TinkoffCTF_25.md",
     "README.md",
     "t-ctf24/TinkoffCTF_24.md",
-    "t-ctf25/photo_2025-04-21_10-18-13.jpg",
-    "t-ctf25/Pasted image 20250421220214.png",
-    "t-ctf25/Pasted image 20250421220304.png",
-    "t-ctf25/Pasted image 20250421224114.png",
+    "t-ctf25/img/photo_2025-04-21_10-18-13.jpg",
+    "t-ctf25/img/Pasted image 20250421220304.png",
+    "t-ctf25/img/Pasted image 20250421224114.png",
     "t-ctf24/Репкозиторий.md",
     "t-ctf24/Пятницамобиль.md",
     "t-ctf24/Проклятый старый сайт b543d50765e34b9d8a11d056d8cfe285 1.md",
@@ -223,7 +224,6 @@
     "t-ctf24/lopa_2dkwzhy.pcap",
     "t-ctf24/herlock.py",
     "t-ctf24/case_database.txt.enc.txt",
-    "t-ctf24/bugman_44416be.tar.gz",
-    "t-ctf24/img"
+    "t-ctf24/bugman_44416be.tar.gz"
   ]
 }
