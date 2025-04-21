@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "t-ctf24/TinkoffCTF_24.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TinkoffCTF_24"
+              "title": "README"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "t-ctf24/TinkoffCTF_24.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для TinkoffCTF_24"
+              "title": "Обратные ссылки для README"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "t-ctf24/TinkoffCTF_24.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура TinkoffCTF_24"
+              "title": "Структура README"
             }
           },
           {
@@ -189,10 +189,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5d4f2ff42f8d512",
+  "active": "ce7a3a5bea2186a8",
   "lastOpenFiles": [
-    "t-ctf24/Золотая лопа 71abade4b50c44bc8d15ff6741e4909b.md",
     "t-ctf24/TinkoffCTF_24.md",
+    "t-ctf24/Золотая лопа 71abade4b50c44bc8d15ff6741e4909b.md",
     "t-ctf24/Тред_Ариандны.md",
     "t-ctf24/Человек-жук.md",
     "t-ctf24/Элементарно,_Ватсон!.md",
