@@ -23,7 +23,7 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
@@ -171,8 +171,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,6 +190,8 @@
   },
   "active": "ce7a3a5bea2186a8",
   "lastOpenFiles": [
+    "NeoQuest24/с.md",
+    "README.md",
     "t-ctf24/TinkoffCTF_24.md",
     "t-ctf24/Золотая лопа 71abade4b50c44bc8d15ff6741e4909b.md",
     "t-ctf24/Тред_Ариандны.md",
@@ -204,7 +205,6 @@
     "NeoQuest24/Задание_3.md",
     "NeoQuest24/Задание_2.md",
     "NeoQuest24/Задание_1.md",
-    "README.md",
     "CryptoKids 7a2ac7048ff244209d57a00542c314fd.md",
     "t-cftf24/TinkoffCTF_24.md",
     "t-cftf24",
@@ -223,7 +223,6 @@
     "t-ctf24/Photo_065.jpg",
     "t-ctf24/Photo_014.jpg",
     "img/fd8a8f4c-412c-4a3d-a5c9-d0d131f176a5.png",
-    "NeoQuest24/NeoQuest2024 e35ed3484ec2473caff0b0755713244b.md",
     "t-ctf24/IMG_1904.jpg",
     "NeoQuest24",
     "t-ctf24/IMG_1904 1.jpg",
