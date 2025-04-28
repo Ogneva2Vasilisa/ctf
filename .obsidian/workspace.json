@@ -18,8 +18,21 @@
               "icon": "lucide-image",
               "title": "Pasted image 20250421214251"
             }
+          },
+          {
+            "id": "0a4b167754ae5d78",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25b38ca2756da3b2",
+  "active": "0a4b167754ae5d78",
   "lastOpenFiles": [
     "t-ctf25/Капитальный_ремонт.md",
     "t-ctf25/img",
